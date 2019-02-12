@@ -1,0 +1,271 @@
+img {
+  width: 100%;
+}
+
+.flow-text {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.nav-bar {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding-top: 15px;
+}
+
+.nav-bar > a {
+  color: white;
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 1.15em;
+  text-transform: uppercase;
+  margin: 0 15px;
+}
+
+.banner {
+  height: 69vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-logo {
+  width: 50vw;
+}
+
+.btn-banner {
+  margin-top: 55px;
+}
+
+/* heroe container */
+.heroe-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  margin-top: 50px;
+}
+
+.heroe-image {
+  width: 360px;
+  z-index: 1;
+}
+
+.waves-container {
+  width: 100%;
+  position: absolute;
+  bottom: -7px;
+  z-index: 0;
+}
+
+.waves {
+  width: 100%;
+}
+
+.heroe-description {
+  width: 100%;
+  height: 30vh;
+  background-color: #52aebf;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.heroe-description > p {
+  max-width: 35vw;
+  border-radius: 25px;
+}
+
+.transition {
+  background-image: url(../images/bg-gradient.png);
+  background-size: cover;
+}
+
+/* features */
+
+.features {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 85vh;
+  margin-top: -1px;
+}
+
+.features > .description {
+  max-width: 50vw;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.features > .image {
+  width: 360px;
+}
+
+.section-1 {
+  background-color: #52aebf;
+}
+
+.section-2 {
+  background: #52AFBF;
+  background: linear-gradient(to bottom, #52AFBF, #55a5c0);
+}
+
+.section-3 {
+  background: #55a5c0;
+  background: linear-gradient(to bottom, #55a5c0, #579bc0);
+}
+
+.section-4 {
+  background: #579bc0;
+  background: linear-gradient(to bottom, #579bc0, #5a94c2);
+}
+
+.section-5 {
+  background: #5a94c2;
+  background: linear-gradient(to bottom, #5a94c2, #5f8ac2);
+}
+
+.section-6 {
+  background: #5f8ac2;
+  background: linear-gradient(to bottom, #5f8ac2, #6183c5);
+}
+
+.section-6 > .image {
+  width: 620px;
+  max-width: 100%;
+}
+
+.section-7 {
+  background: #6183c5;
+  background: linear-gradient(to bottom, #6183c5, #6479c5);
+}
+
+.section-8 {
+  background: #6479c5;
+  background: linear-gradient(to bottom, #6479c5, #6672c7);
+}
+
+.section-8 > .image {
+  width: 620px;
+  max-width: 100%;
+}
+
+
+/* pricing */
+.pricing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+  background-color: #444;
+  margin-top: -2px;
+}
+
+.pricing > h3 {
+  color: white;
+  margin-bottom: 15vh;
+}
+
+.pricing > .cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.pricing > .cards > .card {
+  margin-right: 10px;
+}
+
+.pricing > .cards > .card > .card-content {
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.inline {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+/* testimonios */
+.testimonios {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #555;
+  height: 95vh;
+  color: white;
+}
+
+.testimonios > h3 {
+  margin-bottom: 15vh;
+}
+
+.testimonios > div {
+  height: 415px;
+}
+
+/* bottom nav */
+.bottom-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #333;
+  height: 55vh;
+  color: white;
+}
+
+.bottom-nav > .columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.bottom-nav > .columns > .column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.bottom-nav > .columns > .column > .contact {
+  color: white;
+  font-size: 1.3em;
+}
+
+.bottom-nav > .columns > .column > a {
+  color: white;
+  font-size: 1.3em;
+}
+
+.bottom-nav > .copyright {
+  background-color: #111;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 30%;
+}
+
+.link {
+  text-decoration: underline;
+}
