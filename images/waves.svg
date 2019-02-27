@@ -10,12 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="793.70081"
-   height="180.10001"
-   viewBox="0 0 210 47.651461"
+   height="220"
+   viewBox="0 0 210 58.208335"
    version="1.1"
    id="svg1121"
    sodipodi:docname="waves.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <defs
      id="defs1115" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="456.95612"
-     inkscape:cy="51.371319"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="393.2032"
+     inkscape:cy="49.070947"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,12 +53,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-249.34853)">
+     transform="translate(0,-238.79166)">
     <path
        sodipodi:nodetypes="csscccc"
        inkscape:connector-curvature="0"
        id="path1738"
-       d="m 6.2429998e-4,261.7664 c 0,0 14.52589870002,-4.01415 30.01123270002,-4.15781 36.932748,-0.34262 53.114051,19.44577 109.862573,18.79369 50.40489,-0.57919 70.23996,-27.0563 70.23996,-27.0563 v 47.65416 H 6.2429998e-4 Z"
+       d="m 6.2429998e-4,251.56083 c 0,0 14.52589870002,-4.01415 30.01123270002,-4.15781 36.932748,-0.34262 53.114051,19.44577 109.862573,18.79369 50.40489,-0.57919 70.23996,-27.0563 70.23996,-27.0563 l 0,57.85952 H 6.2429998e-4 Z"
        style="opacity:1;fill:#53aebe;fill-opacity:1;stroke:none;stroke-width:1.8423425;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

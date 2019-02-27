@@ -32,9 +32,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="939"
-     inkscape:window-height="1020"
-     inkscape:window-x="965"
+     inkscape:window-width="1900"
+     inkscape:window-height="1026"
+     inkscape:window-x="10"
      inkscape:window-y="44"
      inkscape:window-maximized="0" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
